@@ -25,12 +25,12 @@ tr{
 /*END STARTER CODE*/
 
 body{
-  background-color: #DDDDDD;
+  background-color: #00000;
   font-size: 16px;
   margin: 1.2em;
   background-size: cover ;
   background-position: center;
-  background-image: url("../images/pigeon-background.JPEG");
+  /*background-image: url("../images/pigeon-background.JPEG");*/
   font-family: 'Andika', sans-serif; 
   text-align: center;
 }
