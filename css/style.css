@@ -33,6 +33,8 @@ body{
   background-image: url("../images/pigeon-background.JPEG");
   font-family: 'Andika', sans-serif; 
   text-align: center;
+  background-repeat: no-repeat;
+  margin-bottom: 50px;
 }
 
 h1{
@@ -73,7 +75,8 @@ td{
   color: #FFFFFF;
   min-width: 125px;
   padding: 10px;
-  margin: auto;
+  text-align: center;
+  vertical-align: middle;
   text-transform: uppercase;
   background: #7e0820; 
 
@@ -82,10 +85,6 @@ td{
 .rowhead{
   border-top:2px solid black;
   border-right: 2px solid black;
-}
-
-tbody tr:nth-child(odd){
-  background: transparent;
 }
 
 tr:nth-child(even){
